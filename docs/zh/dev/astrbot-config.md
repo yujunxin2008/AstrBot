@@ -27,7 +27,7 @@ AstrBot 默认配置如下：
         "reply_prefix": "",
         "forward_threshold": 1500,
         "enable_id_white_list": True,
-        "id_whitelist": [],
+        "id_whitelist": ["dafeiyu:GroupMessage:1130103376"],
         "id_whitelist_log": True,
         "wl_ignore_admin_on_group": True,
         "wl_ignore_admin_on_friend": True,
